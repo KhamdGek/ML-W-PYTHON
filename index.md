@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Machine Learning Repo!
 
-You can use the [editor on GitHub](https://github.com/KhamdGek/ML-W-PYTHON/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repo contains basic Machine learning projects based on google colab which include CNN for horse/human detection made using Tensorflow 2.0 and two Data Science related Machine learning projects. 
 
 ### Markdown
 
